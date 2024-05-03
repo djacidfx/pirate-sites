@@ -7,4 +7,7 @@ Recently I've had a bunch of the blue haired kids from here on GitHub send hundr
  - [PSD Keys](https://psdkeys.com/) A graphic designers place
  - [VFX Download](https://vfxdownload.net/) Game Engine Assets
  - [Desire](https://desirefx.me/) A lot of different types of free files
+ - [GFX Hub](https://gfx-hub.cc/)
  - More to come!
+
+If you would like to add something to the list please, feel free to do so!

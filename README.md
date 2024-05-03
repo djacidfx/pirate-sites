@@ -8,6 +8,8 @@ Recently I've had a bunch of the blue haired kids from here on GitHub send hundr
  - [VFX Download](https://vfxdownload.net/) Game Engine Assets
  - [Desire](https://desirefx.me/) A lot of different types of free files
  - [GFX Hub](https://gfx-hub.cc/)
+ - [Steam Unlocked](https://steamunlocked.net/) Steam Games
+ - [GoG Unlocked](https://gogunlocked.com/) GoG games
  - More to come!
 
 If you would like to add something to the list please, feel free to do so!

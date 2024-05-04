@@ -10,6 +10,7 @@ Recently I've had a bunch of the blue haired kids from here on GitHub send hundr
  - [GFX Hub](https://gfx-hub.cc/)
  - [Steam Unlocked](https://steamunlocked.net/) Steam Games
  - [GoG Unlocked](https://gogunlocked.com/) GoG games
+ - [FMovies](https://fmoviesz.to/) - Watch full movies free!
  - More to come!
 
 If you would like to add something to the list please, feel free to do so!
